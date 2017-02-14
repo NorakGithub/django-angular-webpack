@@ -1,0 +1,25 @@
+# Core
+Django
+django-environ
+django-crispy-forms
+django-braces
+
+# Django REST framework and JSON Web Token Authentication
+djangorestframework
+djangorestframework-jwt
+
+# Debugging only on Local environment
+django-debug-toolbar
+django-extensions
+
+# postgres adapter
+psycopg2
+
+# Feature switch
+django-waffle
+
+# Production running
+gunicorn
+
+# Header for API
+django-cors-headers
